@@ -1,0 +1,19 @@
+* A repository to practice how classes work on python
+
+This repository is intended for educational purposes, showcasing examples and explanations of how classes work in Python. The content is derived from various free tutorials available online, complemented by my own modifications to simplify and elucidate the concepts of class inheritance, method overriding, and object-oriented programming. It serves as a practical guide for beginners learning about Python classes.
+
+* Some important concepts
+
+** Attributes:
+What an object is/has
+- name
+- age
+- height
+
+** Methods:
+What an object do (actions)
+- eat
+- sleep
+- run
+** Class:
+Defines the possible attributes and methods that an object can possess, acting as a template for constructing instances with specific characteristics and capabilities.
